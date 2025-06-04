@@ -1,16 +1,41 @@
-🧠 Sefa Toprak | Digital Architect @Neroxest
+# 👋 Hello, I'm Sefa Toprak
 
-⚡️ Building the future with code: AI, Web3, and beyond.
-🌐 Founder of [Neroxest](https://www.neroxest.com) – crafting intelligent systems for a smarter world.
-🛠️ Tech Stack: Next.js, Supabase, Prisma, Tailwind, Resend, Playwright.
-🎨 Cyberpunk enthusiast | Designing interfaces that feel like magic.
-📍 Based in Istanbul | Operating globally.
+🚀 **Software Architect** | 🎨 **Cyberpunk Aesthetics Enthusiast** | 🤖 **AI Explorer**
 
-🚀 Projects:
-- [Solvena](https://github.com/Sefa9/solvena): Franchise management SaaS platform.
-- [Neroxest Boilerplate](https://github.com/Sefa9/neroxest-boilerplate): Full-stack starter kit with CI/CD, auth, and more.
+I'm the founder of [Neroxest](https://www.neroxest.com), a software company focused on building intelligent, automated systems. My work blends technology, design, and futuristic thinking into functional products that feel like magic.
 
-📫 Reach out: [sefatoprak.com](https://www.sefatoprak.com)
+---
 
-![Sefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefatorak&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sefatorak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack I Work With
+
+- **Frontend:** Next.js, Tailwind CSS, React
+- **Backend:** Node.js, Supabase, Prisma
+- **Database:** PostgreSQL (hosted on Supabase)
+- **Authentication:** NextAuth
+- **Email Service:** Resend + React Email
+- **Testing & Automation:** Playwright
+
+---
+
+## 📈 GitHub Stats
+
+![Sefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefatorak&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefatorak&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophy Showcase
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sefatorak&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [sefatoprak.com](https://www.sefatoprak.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sefatoprakcom)
+- 📷 [Instagram](https://www.instagram.com/sefa_toprak_sanatci/)
+- 🎵 [SoundCloud](https://soundcloud.com/sefa-toprak-933737238)
+
+---
