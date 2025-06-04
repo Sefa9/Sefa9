@@ -27,7 +27,7 @@ I'm the founder of [Neroxest](https://www.neroxest.com), a software company focu
 
 ## 🏆 GitHub Trophy Showcase
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sefatorak&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sefa9&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
