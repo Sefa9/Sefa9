@@ -19,9 +19,9 @@ I'm the founder of [Neroxest](https://www.neroxest.com), a software company focu
 
 ## 📈 GitHub Stats
 
-![Sefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefatorak&show_icons=true&theme=tokyonight)
+![Sefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefa9&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefatorak&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefa9&layout=compact&theme=tokyonight)
 
 ---
 
