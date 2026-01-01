@@ -1,41 +1,26 @@
-# 👋 Hello, I'm Sefa Toprak
+<h1 align="center">Hi 👋, I'm Sefa Toprak</h1>
+<h3 align="center">Software Architect | Cyberpunk Aesthetics Enthusiast | AI Explorer</h3>
 
-🚀 **Software Architect** | 🎨 **Cyberpunk Aesthetics Enthusiast** | 🤖 **AI Explorer**
+- 🔭 I’m currently working on [Neroxest – Web, CRM & AI Automation](https://sefatoprak.com)
 
-I'm the founder of [Solvena](https://www.solvena.net), a software company focused on building intelligent, automated systems. My work blends technology, design, and futuristic thinking into functional products that feel like magic.
+- 🌱 I’m currently learning **AI driven automation, futuristic UX**
 
----
+- 👯 I’m looking to collaborate on [Open source automation tooling & AI integrations](https://github.com/Sefa9)
 
-## 🛠️ Tech Stack I Work With
+- 🤝 I’m looking for help with [Hyper scalable SaaS & futuristic UX](https://github.com/Sefa9)
 
-- **Frontend:** Next.js, Tailwind CSS, React
-- **Backend:** Node.js, Supabase, Prisma
-- **Database:** PostgreSQL (hosted on Supabase)
-- **Authentication:** NextAuth
-- **Email Service:** Resend + React Email
-- **Testing & Automation:** Playwright
+- 👨‍💻 All of my projects are available at [https://github.com/Sefa9](https://github.com/Sefa9)
 
----
+- 📝 I regularly write articles on [https://sefatoprak.com/blog](https://sefatoprak.com/blog)
 
-## 📈 GitHub Stats
+- 💬 Ask me about **Next.js, React, Supabase, Node.js, Playwright**
 
-![Sefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefa9&show_icons=true&theme=tokyonight)
+- 📫 How to reach me **https://sefatoprak.com**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefa9&layout=compact&theme=tokyonight)
+- 📄 Know about my experiences [https://sefatoprak.com](https://sefatoprak.com)
 
----
+- ⚡ Fun fact **I coded my first program as a kid and never stopped exploring AI**
 
-## 🏆 GitHub Trophy Showcase
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sefa9&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [sefatoprak.com](https://www.sefatoprak.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sefatoprakcom)
-- 📷 [Instagram](https://www.instagram.com/sefa_toprak_sanatci/)
-- 🎵 [SoundCloud](https://soundcloud.com/sefa-toprak-933737238)
-
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
