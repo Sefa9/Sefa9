@@ -2,7 +2,7 @@
 
 🚀 **Software Architect** | 🎨 **Cyberpunk Aesthetics Enthusiast** | 🤖 **AI Explorer**
 
-I'm the founder of [Neroxest](https://www.neroxest.com), a software company focused on building intelligent, automated systems. My work blends technology, design, and futuristic thinking into functional products that feel like magic.
+I'm the founder of [Solvena](https://www.solvena.net), a software company focused on building intelligent, automated systems. My work blends technology, design, and futuristic thinking into functional products that feel like magic.
 
 ---
 
