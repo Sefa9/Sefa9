@@ -13,12 +13,12 @@
 
 ## ▍Konum
 
-Solvena, işletmelerin operasyonlarını tek merkezden yönetebildiği,  
-yapay zeka destekli ve ölçeklenebilir yazılım sistemleri geliştirir.
+Solvena, işletmelerin tüm operasyonlarını tek bir sistem üzerinden yönetmesini sağlayan  
+yapay zeka destekli yazılım altyapıları geliştirir.
 
 Odak:
 - operasyonel verimlilik  
-- doğru ve hızlı karar alma  
+- hızlı ve doğru karar alma  
 - sürdürülebilir büyüme  
 
 ---
