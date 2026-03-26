@@ -11,21 +11,22 @@
 
 ---
 
-## ▍Position
+## ▍Konum
 
-Solvena, çok kiracılı SaaS sistemleri, yapay zeka destekli operasyon altyapıları ve karar odaklı platformlar geliştirir.  
+Solvena, işletmelerin operasyonlarını tek merkezden yönetebildiği,  
+yapay zeka destekli ve ölçeklenebilir yazılım sistemleri geliştirir.
 
-Odak:  
-- ölçeklenebilirlik  
+Odak:
 - operasyonel verimlilik  
-- karar kalitesi  
+- doğru ve hızlı karar alma  
+- sürdürülebilir büyüme  
 
 ---
 
-## ▍Scope
+## ▍Çalışma Alanı
 
 ```txt
-SaaS Infrastructure
-AI-Driven Operations
-Business Systems (CRM / ERP)
-Decision-Oriented Software
+SaaS Platformları
+AI Destekli Operasyon Sistemleri
+CRM / ERP Altyapıları
+Karar Odaklı Yazılımlar
