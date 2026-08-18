@@ -8,8 +8,8 @@
   <a href="LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Sefa%20Toprak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:MAIL_ADRESI">
-    <img src="https://img.shields.io/badge/Contact-Mail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Contact-Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,21 +22,86 @@
 
 ---
 
-## ▍Konum
+## ▍Position
 
-**Solvena**, işletmelerin tüm operasyonlarını tek bir sistem üzerinden yönetmesini sağlayan  
-yapay zeka destekli, ölçeklenebilir ve karar odaklı yazılım altyapıları geliştirir.
+**Solvena** builds AI-powered, scalable software infrastructures that help businesses manage their entire operations through a single intelligent system.
 
-Odak noktam; karmaşık iş süreçlerini sadeleştiren, ölçülebilir verimlilik sağlayan ve sürdürülebilir büyümeyi destekleyen sistemler inşa etmek.
+My focus is to design and build systems that simplify complex business workflows, improve operational efficiency, and support sustainable growth.
 
 ---
 
-## ▍Çalışma Alanı
+## ▍Areas of Work
 
 ```txt
-SaaS Platformları
-AI Destekli Operasyon Sistemleri
-CRM / ERP Altyapıları
-Karar Odaklı Yazılımlar
-Otomasyon Mimarileri
-Ölçeklenebilir Backend Sistemleri
+SaaS Platforms
+AI-Powered Operation Systems
+CRM / ERP Infrastructure
+Decision-Oriented Software
+Automation Architectures
+Scalable Backend Systems
+```
+
+---
+
+## ▍Approach
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Scalable-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product-Operational-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Automation-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Systems-Reliable-334155?style=flat-square" />
+</p>
+
+- Translating business needs into technical architecture  
+- Placing data at the center of decision-making  
+- Reducing repetitive operational work through automation  
+- Building sustainable infrastructures ready for growth  
+- Keeping user experiences simple, fast, and functional  
+
+---
+
+## ▍Technology Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,postgres,mongodb,redis,docker,aws,linux,git,github" />
+</p>
+
+---
+
+## ▍System Perspective
+
+```mermaid
+flowchart LR
+    A[Business Operations] --> B[Data Layer]
+    B --> C[AI & Automation]
+    C --> D[Decision Systems]
+    D --> E[Scalable SaaS Infrastructure]
+    E --> F[Operational Growth]
+```
+
+---
+
+## ▍GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB" />
+</p>
+
+---
+
+## ▍Solvena Standard
+
+> Simple interfaces. Powerful infrastructures. Measurable outcomes.
+
+At Solvena, software is not just working code. It is a system that accelerates business rhythm, improves decision quality, and carries scalable growth.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:1E3A8A,100:0F172A" />
+</p>
